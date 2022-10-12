@@ -1,4 +1,5 @@
-***Hello ![waving](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif)***
+***Hello<sup>![waving](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif)</sup>***
+
 
 - 👋 Hi, I’m Bryson Minodi
 - 👀 I’m a Software Developer
