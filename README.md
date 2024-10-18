@@ -4,18 +4,24 @@
 # Hellooo 👋, I'm Braison Minodi
 A passionate Software and Mobile Apps Engineer from Nairobi, Kenya.
 
-👀                                 👀
+
 - 💞️ I’m an Android and Mobile Apps lover.
 - 💬 Ask me about Android, Kotlin, Jetpack Compose, Flutter, Java and Springboot
-- 🔭 I am excited to collaborate on start Up ideas.
+- 👯 I am excited to collaborate on start Up ideas.
 - 🌱 I am also a coding tutor and glad to help new talents
 - 📫 How to reach me: brysonminodi@gmail.com
+
+
+- 🤔 I’m looking for help with Machine Learning
+
+- ⚡ Fun fact: ...👀 🔭 👀
 
 ### Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" alt="android" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" alt="kotlin" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" alt="spring" width="40" height="40"/>
   <!-- Add more icons here -->
 </p>
 
