@@ -33,6 +33,12 @@ A passionate Software and Mobile Apps Engineer from Nairobi, Kenya.
 ### WakaTime Stats:
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tillern)](https://github.com/Tillern/github-readme-stats)
 
+
 ### Support Me:
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?style=flat&logo=buy-me-a-coffee)](https://www.minodi.com)
+<a href="https://www.buymeacoffee.com/yourprofile" target="_blank">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*VJdus0nKuy1uNoByh5BN3w.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" >
+</a>
+
+<!--### Support Me:
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?style=flat&logo=buy-me-a-coffee)](https://www.minodi.com)-->
 
