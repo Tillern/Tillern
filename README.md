@@ -7,8 +7,8 @@ A passionate Software and Mobile Apps Engineer from Nairobi, Kenya.
 👀                                 👀
 - 💞️ I’m an Android and Mobile Apps lover.
 - 💬 Ask me about Android, Kotlin, Jetpack Compose, Flutter, Java and Springboot
-- 🔭 I’m currently excited to collaborate on start Up ideas.
-- 🌱 I’m a coding tutor and glad to help new talents
+- 🔭 I am excited to collaborate on start Up ideas.
+- 🌱 I am also a coding tutor and glad to help new talents
 - 📫 How to reach me: brysonminodi@gmail.com
 
 ### Languages and Tools:
