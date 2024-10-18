@@ -20,8 +20,8 @@ A passionate Software and Mobile Apps Engineer from Nairobi, Kenya.
 </p>
 
 ### GitHub Stats:
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tillern&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tillern&layout=donut-vertical)](https://github.com/Tillern/github-readme-stats)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tillern&hide=issues,contribs&show_icons=true&rank_icon=github&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tillern&hide_progress=true&langs_count=15)](https://github.com/Tillern/github-readme-stats)
 
 
 ### WakaTime Stats:
