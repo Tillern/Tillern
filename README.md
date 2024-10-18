@@ -23,7 +23,7 @@
 - ⚡ Fun fact: ...👀 🔭 👀
 
 ## Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,kotlin,ktor,java,gradle,flutter,dart,cs,html,sqlite,postgres,mysql,docker,firebase,gcp,git,github,gitlab,postman,figma,xd,ps,ai)
+![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,kotlin,ktor,java,gradle,flutter,dart,html,sqlite,postgres,mysql,docker,firebase,gcp,git,github,gitlab,postman,figma,xd,ps,ai)
 
 ## 🔥 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tillern&hide=issues,contribs&show_icons=true&rank_icon=github&theme=chartreuse-dark)
