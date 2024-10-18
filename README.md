@@ -20,8 +20,8 @@ A passionate Software and Mobile Apps Engineer from Nairobi, Kenya.
 </p>
 
 ### GitHub Stats:
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tillern&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tillern&layout=compact)
 
 ### Support Me:
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?style=flat&logo=buy-me-a-coffee)](https://www.minodi.com)
