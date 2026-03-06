@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software and Mobile Apps Engineer from Nairobi, Kenya.</h3>
 
 <p align="center">
-    <a href="https://minodi.com/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/check-website-green?logo=rss&style=for-the-badge"></a>
+    <a href="https://braisonminodi.online/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/check-website-green?logo=rss&style=for-the-badge"></a>
     <a href="https://www.linkedin.com/in/bryson-minodi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/connect-minodi-0A66C2?logo=linkedin&style=for-the-badge"></a>
     <a href="https://www.instagram.com/tillern_021/profilecard/?igsh=OHdhcmt2cHZ1Ymph" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/follow-minodi?logo=instagram&style=for-the-badge"></a>
   <a href="https://stackoverflow.com/users/17319540/braison-minodi" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack-minodi?logo=stackoverflow&style=for-the-badge"></a>
